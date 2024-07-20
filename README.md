@@ -1,6 +1,7 @@
-# Kii-Trade
+#Kii-Trade
 
 Kii-Trade UI/UX Design
+
 What is Kii-Trade?
 
 Kii-Trade is a cryptocurrency trading platform where users can buy, sell, and trade assets like Bitcoin, Ethereum, and Kiichain. It features a user-friendly interface for monitoring market conditions, viewing price charts, and executing trades.
