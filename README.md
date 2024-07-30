@@ -1,6 +1,9 @@
 # Kii-Trade
 
 Kii-Trade UI/UX Design
+PDF: https://drive.google.com/file/d/1_gMRnq6WPtkcQd913JjVvfP-5cc8MF5a/view?usp=sharing
+Youtube: https://youtu.be/VSwK19x7F4s
+Behance: https://www.behance.net/gallery/204344297/Kii-Trade-Crypto-Trading-Platform
 
 # What is Kii-Trade?
 
